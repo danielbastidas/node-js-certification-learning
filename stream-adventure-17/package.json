@@ -1,0 +1,15 @@
+{
+  "name": "stream-adventure-17",
+  "version": "1.0.0",
+  "description": "strean adventure exercise 17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Bastidas",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "tar": "^6.1.0"
+  }
+}
